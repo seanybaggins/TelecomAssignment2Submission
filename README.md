@@ -14,9 +14,9 @@ There were 43 packets in the entire stream. No packets needed to be retransmitte
 
 3. For the same site, use Traceroute (tracert) to map out the hops between here and there. Show the entire route (including sites that don’t report).
 
-![First Tracert](./ImageAssets/FirstTracert.png)
+![First Tracert](ImageAssets/FirstTracert.png)
 
-![Second Tracert](./ImageAssets/SecondTracert.png)
+![Second Tracert](ImageAssets/SecondTracert.png)
 
 - How many hops are there?
 
@@ -30,9 +30,9 @@ Since there is only 8 bits for the the time to live portion of the header and th
 
 Yes, there is a major Internet Exchange Point. Packets are passing from an Internet Exchange Point that goes from Phoenix to London. The internet exchange point was created by layer 3 communications. The company was later bought by century link. This information was obtained by doing an IP lookup using wolfram alpha and the results of the lookup can be seen in the following images.
 
-![IP Lookup 1](./ImageAssets/IPLookup1.png)
+![IP Lookup 1](ImageAssets/IPLookup1.png)
 
-![IP Lookup 2](./ImageAssets/IPLookup2.png)
+![IP Lookup 2](ImageAssets/IPLookup2.png)
 
 - Compared to an airplane trip, how direct is the route (explain)?
 
