@@ -1,6 +1,6 @@
 # TelecomAssignment2Submission - Internet and Transport Layer Packets and Routing
 
-## See Xcel Chart to see captured data
+## See Excel Chart to see captured data
 
 ## Answer the following questions
 
