@@ -30,9 +30,9 @@ Since there is only 8 bits for the the time to live portion of the header and th
 
 Yes, there is a major Internet Exchange Point. Packets are passing from an Internet Exchange Point that goes from Phoenix to London. The internet exchange point was created by layer 3 communications. The company was later bought by century link. This information was obtained by doing an IP lookup using wolfram alpha and the results of the lookup can be seen in the following images.
 
-![IP Lookup 1](Images/IPLookup1.png)
+![IP Lookup 1](./Images/IPLookup1.png)
 
-![IP Lookup 2](Images/IPLookup2.png)
+![IP Lookup 2](./Images/IPLookup2.png)
 
 - Compared to an airplane trip, how direct is the route (explain)?
 
