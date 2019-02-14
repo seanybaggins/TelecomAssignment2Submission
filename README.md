@@ -2,6 +2,12 @@
 
 ## See Excel Chart to see captured data
 
+### Notes
+
+- I did not capture a packet with the FIN flag = 1 in my first stream. The last packet with the FIN flag = 1 was not captured by the same stream as the rest of the packets.
+- The information highlighted in green pertains to the first 10 packets.
+- The information in read pertains to the last 5 packets.
+
 ## Answer the following questions
 
 1. For packets that are coming from the same host, are the IP header’s packet ID numbers in order? Are they consecutive? Why or why not (speculate if you don’t know)?
